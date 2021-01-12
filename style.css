@@ -2,3 +2,13 @@
   font-family: 'Nunito', sans-serif;
   font-weight: 600;
 }
+
+h1 {
+  font-size: 3.5em;
+  letter-spacing: -3px;
+}
+
+.rounded-btn {
+  border-radius: 3em;
+  padding: .8em 2.2em;
+}
