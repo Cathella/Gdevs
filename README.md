@@ -1,4 +1,3 @@
 # Gdevs
-A Dev Community Concept.
 
-Empowering women through technology to secure Nations.
+A Dev Community Concept. Search for a real-life project to work on. A project that impacts lives. 
