@@ -12,3 +12,7 @@ h1 {
   border-radius: 3em;
   padding: .8em 2.2em;
 }
+
+nav li {
+  padding: 0 1em;
+}
