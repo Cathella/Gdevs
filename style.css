@@ -16,3 +16,7 @@ h1 {
 nav li {
   padding: 0 1em;
 }
+
+.dark-bg {
+  background: #0a083a;
+}
